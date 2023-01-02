@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M204_TP1</string>
+    <string name="tvNom">Saisir votre nom</string>
+    <string name="btnOk">OK</string>
+    <string name="detruire_l_activite">Detruire l\'activite</string>
+    <string name="partager_les_informations">Partager les informations</string>
+</resources>
